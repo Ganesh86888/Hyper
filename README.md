@@ -1,9 +1,14 @@
 # Hyper
-Create a java project 
-Create a package com.hyperloop
-Create a main class HyperLoop under com.hyperloop package
-Go to terminal
-Compile the code
+1).Create a java project 
+
+2).Create a package com.hyperloop
+
+3).Create a main class HyperLoop under com.hyperloop package
+
+4).Go to terminal
+
+5).Compile the code
   javac com/hyperloop/HyperLoop.java
-Run the code
+  
+6).Run the code
   java com.hyperloop.HyperLoop < input.txt
